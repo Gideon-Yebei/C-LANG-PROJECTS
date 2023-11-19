@@ -67,6 +67,12 @@ build CMakeFiles/C_LANG_PROJECTS.dir/DIGITAL-CLOCK/display_current_time.c.obj: C
   OBJECT_DIR = CMakeFiles\C_LANG_PROJECTS.dir
   OBJECT_FILE_DIR = CMakeFiles\C_LANG_PROJECTS.dir\DIGITAL-CLOCK
 
+build CMakeFiles/C_LANG_PROJECTS.dir/STUDENT-RECORDS-SYSTEM/student_records.c.obj: C_COMPILER__C_LANG_PROJECTS_unscanned_Debug C$:/Users/GKY/CLionProjects/C-LANG-PROJECTS/STUDENT-RECORDS-SYSTEM/student_records.c || cmake_object_order_depends_target_C_LANG_PROJECTS
+  DEP_FILE = CMakeFiles\C_LANG_PROJECTS.dir\STUDENT-RECORDS-SYSTEM\student_records.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\C_LANG_PROJECTS.dir
+  OBJECT_FILE_DIR = CMakeFiles\C_LANG_PROJECTS.dir\STUDENT-RECORDS-SYSTEM
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target C_LANG_PROJECTS
@@ -75,7 +81,7 @@ build CMakeFiles/C_LANG_PROJECTS.dir/DIGITAL-CLOCK/display_current_time.c.obj: C
 #############################################
 # Link the executable C_LANG_PROJECTS.exe
 
-build C_LANG_PROJECTS.exe: C_EXECUTABLE_LINKER__C_LANG_PROJECTS_Debug CMakeFiles/C_LANG_PROJECTS.dir/main.c.obj CMakeFiles/C_LANG_PROJECTS.dir/DIGITAL-CLOCK/clock_timer.c.obj CMakeFiles/C_LANG_PROJECTS.dir/DIGITAL-CLOCK/display_current_time.c.obj
+build C_LANG_PROJECTS.exe: C_EXECUTABLE_LINKER__C_LANG_PROJECTS_Debug CMakeFiles/C_LANG_PROJECTS.dir/main.c.obj CMakeFiles/C_LANG_PROJECTS.dir/DIGITAL-CLOCK/clock_timer.c.obj CMakeFiles/C_LANG_PROJECTS.dir/DIGITAL-CLOCK/display_current_time.c.obj CMakeFiles/C_LANG_PROJECTS.dir/STUDENT-RECORDS-SYSTEM/student_records.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\C_LANG_PROJECTS.dir

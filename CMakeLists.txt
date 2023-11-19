@@ -8,4 +8,6 @@ add_executable(C_LANG_PROJECTS main.c
         DIGITAL-CLOCK/clock_timer.h
         DIGITAL-CLOCK/display_current_time.c
         DIGITAL-CLOCK/display_current_time.h
+        STUDENT-RECORDS-SYSTEM/student_records.c
+        STUDENT-RECORDS-SYSTEM/student_records.h
 )
