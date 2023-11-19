@@ -1,0 +1,3 @@
+C:/Users/GKY/CLionProjects/C-LANG-PROJECTS/cmake-build-debug/CMakeFiles/C_LANG_PROJECTS.dir
+C:/Users/GKY/CLionProjects/C-LANG-PROJECTS/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/GKY/CLionProjects/C-LANG-PROJECTS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
